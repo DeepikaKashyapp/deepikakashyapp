@@ -1,19 +1,23 @@
 <div align="center">
 
-# 🎀 Hi, I'm Deepika Kashyap! 💻✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,100:FFC0CB&height=200&section=header&text=Deepika%20Kashyap&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%9C%A8%20AI%2FML%20%E2%9C%A8%20Open%20Source&descAlignY=58&descSize=18" width="100%"/>
 
-### *Software Engineer in the making, sprinkling AI magic everywhere* 🌸
+### ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ *sprinkling AI magic everywhere* 🌸🧋
+
+🎀 ⋆｡˚ ❀ 🍡 ⋆｡˚ ❀ 🐰 ⋆｡˚ ❀ 🌸 ⋆｡˚ ❀ 🎀
 
 [![Email](https://img.shields.io/badge/Email-deepikashyap85%40gmail.com-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepikashyap85@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepika-kashyap-2270bb36a)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-F8BBD0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%208565831010-FFD1DC?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918565831010)
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hii!+welcome+to+my+profile+~+(%EF%BD%A1%E2%80%B2%E2%96%BD%E2%80%B5%EF%BD%A1)%EF%BE%9E;ECE+student+%2B+full-stack+%2B+AI%2FML;Currently+vibing+at+GSSoC+2026+%F0%9F%8C%B8" alt="Typing SVG" />
+
 </div>
 
 <br>
 
-## 🌷 About Me
+## 🌷 About Me 〜 (｀▽´)ʃ♡ƪ
 
 ```
 💗 B.Tech in Electronics & Communication Engineering
@@ -28,7 +32,7 @@ I'm a software engineer with an ECE foundation, building optimized AI/ML pipelin
 
 <br>
 
-## 🧸 Skills Showcase
+## 🧸 Skills Showcase ☆ʕ•ﻌ•ʔ☆
 
 <table>
 <tr>
@@ -71,7 +75,7 @@ I'm a software engineer with an ECE foundation, building optimized AI/ML pipelin
 
 <br>
 
-## 🌸 Featured Projects
+## 🌸 Featured Projects ‧₊˚ ⋆｡˚ ☁️ ⋆。˚ ⋆₊˚⊹
 
 ### 🛍️ Multimodal Product Inconsistency Detector
 *Jun 2026 — Personal Project*
@@ -112,7 +116,7 @@ An off-grid emergency mesh network for Android, built to keep people connected w
 
 <br>
 
-## 🏆 Hackathons & Achievements
+## 🏆 Hackathons & Achievements ☆ ̊ . ⊹ ⋆
 
 | 🎀 | Achievement |
 |---|---|
@@ -125,7 +129,7 @@ An off-grid emergency mesh network for Android, built to keep people connected w
 
 <br>
 
-## 💼 Experience
+## 💼 Experience ⊹ ☁️ ‧₊˚
 
 ### 🌷 Open Source Contributor — GirlScript Summer of Code (GSSoC)
 *May 2026 – Present · Remote*
@@ -136,7 +140,7 @@ An off-grid emergency mesh network for Android, built to keep people connected w
 
 <br>
 
-## 🎓 Education
+## 🎓 Education 📖 ‧₊˚ ✩
 
 | Institution | Degree | Duration |
 |---|---|---|
@@ -160,6 +164,10 @@ An off-grid emergency mesh network for Android, built to keep people connected w
 [![Email](https://img.shields.io/badge/-deepikashyap85%40gmail.com-FFE4E1?style=flat-square&logo=gmail)](mailto:deepikashyap85@gmail.com)
 [![Phone](https://img.shields.io/badge/-+91%208565831010-FFE4E1?style=flat-square&logo=phone)](tel:+918565831010)
 
-🌸 *Made with love, lots of coffee, and a sprinkle of glitter* ✨
+🌸 *Made with love, lots of bubble tea, and a sprinkle of glitter* ✨
+
+♡ ⋆｡˚ ☁️ ⋆｡˚ 🐰 ⋆｡˚ 🍡 ⋆｡˚ 🎀 ⋆｡˚ 🌸 ⋆｡˚ ☁️ ⋆｡˚ ♡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC0CB,100:FFD1DC&height=120&section=footer" width="100%"/>
 
 </div>
